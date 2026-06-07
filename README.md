@@ -1,5 +1,4 @@
--       👋 Hi, I’m @shivky1992
+-       👋 Hi, I’m Ravindra yadav
 -       My Email Address is - shivfreelance1994@gmail.com
--       Telegram contact no is - +91 8299722453
 -       I’m interested in Front end development using React and NextJS
 
